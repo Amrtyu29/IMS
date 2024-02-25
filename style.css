@@ -6,17 +6,8 @@
     padding-bottom: 470px;
     position: relative;
 }
-.box {
-    font-size: 1.2em;
-    width: 11em;
-}
 
-.tab {
-    margin-top: 7%;
-}
-.orderidcolor{
-    color:grey;
-}
+
 .map iframe {
     position: absolute;
 }
@@ -208,14 +199,6 @@ tr:nth-child(even) {
 .logoimage{
     width: 8% !important;
     height: 8% !important;
-}
-@media only screen 
-and (max-width : 430px)
-{
-    .logoimage{
-        width: 30%;
-        height: 8%;
-    }
 }
 img {
     width: 100%;
@@ -428,10 +411,4 @@ a {
 }
 .just1{
     margin-top: 12%;
-}
-#fromdate,
-#todate{
-	width: 100%;
-	outline: none;
-	cursor: pointer;
 }
